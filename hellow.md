@@ -10,10 +10,28 @@
 
 - push: 원격 저장소에 커밋을 업로드 한다.\
 
+- branch
+
+- checkout
+
+- cherry-pick
+
+- reset
+
+- revert
+
+- rebase
+
+- merge
+
+## 참고사이트
+
+https://learngitbranching.js.org/?locale=ko
+
 ## 커밋 시 주의 사항
 
 1. 반드시 한 번에 하느의 논리적 작업만을 커밋합니다.
-2. 커밋 메시지를 잘 적어야 합니다. 
+2. 커밋 메시지를 잘 적어야 합니다.  
 
 특히 커밋 메시지는 미래의 나와 다른 개발자들을 위해서 꼼꼼히 적어야 합니다. 
 
